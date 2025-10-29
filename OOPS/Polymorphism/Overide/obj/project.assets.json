@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\MCA\\Sem-4\\C_Sharp\\OOPS\\Polymorphism\\Polymorphism.csproj",
-      "projectName": "Polymorphism",
-      "projectPath": "F:\\MCA\\Sem-4\\C_Sharp\\OOPS\\Polymorphism\\Polymorphism.csproj",
+      "projectUniqueName": "F:\\MCA\\Sem-4\\C_Sharp\\OOPS\\Polymorphism\\Overide\\Overide.csproj",
+      "projectName": "Overide",
+      "projectPath": "F:\\MCA\\Sem-4\\C_Sharp\\OOPS\\Polymorphism\\Overide\\Overide.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "F:\\MCA\\Sem-4\\C_Sharp\\OOPS\\Polymorphism\\obj\\",
+      "outputPath": "F:\\MCA\\Sem-4\\C_Sharp\\OOPS\\Polymorphism\\Overide\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

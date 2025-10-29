@@ -75,4 +75,4 @@ class Bus : Vehicle
         Console.WriteLine("Rent for the Bus for" + days + ":" + Rent);
     }
 }
-
+    

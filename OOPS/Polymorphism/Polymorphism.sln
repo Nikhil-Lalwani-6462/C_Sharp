@@ -2,7 +2,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.2.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polymorphism", "Polymorphism\Polymorphism.csproj", "{DE8E11AD-91E1-3245-13AF-1185326B4261}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Overide", "Overide\Overide.csproj", "{E36606E2-F035-91C7-CA03-11F9F2F57334}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -10,15 +10,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{DE8E11AD-91E1-3245-13AF-1185326B4261}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{DE8E11AD-91E1-3245-13AF-1185326B4261}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{DE8E11AD-91E1-3245-13AF-1185326B4261}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{DE8E11AD-91E1-3245-13AF-1185326B4261}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E36606E2-F035-91C7-CA03-11F9F2F57334}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E36606E2-F035-91C7-CA03-11F9F2F57334}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E36606E2-F035-91C7-CA03-11F9F2F57334}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E36606E2-F035-91C7-CA03-11F9F2F57334}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {7AD66B8B-76FF-435D-AFE1-7BA1430869E5}
+		SolutionGuid = {7472ED96-ABAB-4190-8279-D17C668D1D7B}
 	EndGlobalSection
 EndGlobal
