@@ -1,0 +1,15 @@
+F:\MCA\Sem-4\C_Sharp\OOPS\Interface\obj\Debug\net9.0\Interface.GeneratedMSBuildEditorConfig.editorconfig
+F:\MCA\Sem-4\C_Sharp\OOPS\Interface\obj\Debug\net9.0\Interface.AssemblyInfoInputs.cache
+F:\MCA\Sem-4\C_Sharp\OOPS\Interface\obj\Debug\net9.0\Interface.AssemblyInfo.cs
+F:\MCA\Sem-4\C_Sharp\OOPS\Interface\obj\Debug\net9.0\Interface.csproj.CoreCompileInputs.cache
+F:\MCA\Sem-4\C_Sharp\OOPS\Interface\obj\Debug\net9.0\Interface.sourcelink.json
+F:\MCA\Sem-4\C_Sharp\OOPS\Interface\bin\Debug\net9.0\Interface.exe
+F:\MCA\Sem-4\C_Sharp\OOPS\Interface\bin\Debug\net9.0\Interface.deps.json
+F:\MCA\Sem-4\C_Sharp\OOPS\Interface\bin\Debug\net9.0\Interface.runtimeconfig.json
+F:\MCA\Sem-4\C_Sharp\OOPS\Interface\bin\Debug\net9.0\Interface.dll
+F:\MCA\Sem-4\C_Sharp\OOPS\Interface\bin\Debug\net9.0\Interface.pdb
+F:\MCA\Sem-4\C_Sharp\OOPS\Interface\obj\Debug\net9.0\Interface.dll
+F:\MCA\Sem-4\C_Sharp\OOPS\Interface\obj\Debug\net9.0\refint\Interface.dll
+F:\MCA\Sem-4\C_Sharp\OOPS\Interface\obj\Debug\net9.0\Interface.pdb
+F:\MCA\Sem-4\C_Sharp\OOPS\Interface\obj\Debug\net9.0\Interface.genruntimeconfig.cache
+F:\MCA\Sem-4\C_Sharp\OOPS\Interface\obj\Debug\net9.0\ref\Interface.dll
