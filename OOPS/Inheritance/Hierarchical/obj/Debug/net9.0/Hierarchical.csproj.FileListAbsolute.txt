@@ -1,0 +1,15 @@
+F:\MCA\Sem-4\C_Sharp\OOPS\Inheritance\Hierarchical\obj\Debug\net9.0\Hierarchical.GeneratedMSBuildEditorConfig.editorconfig
+F:\MCA\Sem-4\C_Sharp\OOPS\Inheritance\Hierarchical\obj\Debug\net9.0\Hierarchical.AssemblyInfoInputs.cache
+F:\MCA\Sem-4\C_Sharp\OOPS\Inheritance\Hierarchical\obj\Debug\net9.0\Hierarchical.AssemblyInfo.cs
+F:\MCA\Sem-4\C_Sharp\OOPS\Inheritance\Hierarchical\obj\Debug\net9.0\Hierarchical.csproj.CoreCompileInputs.cache
+F:\MCA\Sem-4\C_Sharp\OOPS\Inheritance\Hierarchical\obj\Debug\net9.0\Hierarchical.sourcelink.json
+F:\MCA\Sem-4\C_Sharp\OOPS\Inheritance\Hierarchical\bin\Debug\net9.0\Hierarchical.exe
+F:\MCA\Sem-4\C_Sharp\OOPS\Inheritance\Hierarchical\bin\Debug\net9.0\Hierarchical.deps.json
+F:\MCA\Sem-4\C_Sharp\OOPS\Inheritance\Hierarchical\bin\Debug\net9.0\Hierarchical.runtimeconfig.json
+F:\MCA\Sem-4\C_Sharp\OOPS\Inheritance\Hierarchical\bin\Debug\net9.0\Hierarchical.dll
+F:\MCA\Sem-4\C_Sharp\OOPS\Inheritance\Hierarchical\bin\Debug\net9.0\Hierarchical.pdb
+F:\MCA\Sem-4\C_Sharp\OOPS\Inheritance\Hierarchical\obj\Debug\net9.0\Hierarchical.dll
+F:\MCA\Sem-4\C_Sharp\OOPS\Inheritance\Hierarchical\obj\Debug\net9.0\refint\Hierarchical.dll
+F:\MCA\Sem-4\C_Sharp\OOPS\Inheritance\Hierarchical\obj\Debug\net9.0\Hierarchical.pdb
+F:\MCA\Sem-4\C_Sharp\OOPS\Inheritance\Hierarchical\obj\Debug\net9.0\Hierarchical.genruntimeconfig.cache
+F:\MCA\Sem-4\C_Sharp\OOPS\Inheritance\Hierarchical\obj\Debug\net9.0\ref\Hierarchical.dll

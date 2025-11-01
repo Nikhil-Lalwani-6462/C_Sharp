@@ -1,0 +1,15 @@
+F:\MCA\Sem-4\C_Sharp\OOPS\Inheritance\Single\obj\Debug\net9.0\Single.GeneratedMSBuildEditorConfig.editorconfig
+F:\MCA\Sem-4\C_Sharp\OOPS\Inheritance\Single\obj\Debug\net9.0\Single.AssemblyInfoInputs.cache
+F:\MCA\Sem-4\C_Sharp\OOPS\Inheritance\Single\obj\Debug\net9.0\Single.AssemblyInfo.cs
+F:\MCA\Sem-4\C_Sharp\OOPS\Inheritance\Single\obj\Debug\net9.0\Single.csproj.CoreCompileInputs.cache
+F:\MCA\Sem-4\C_Sharp\OOPS\Inheritance\Single\obj\Debug\net9.0\Single.sourcelink.json
+F:\MCA\Sem-4\C_Sharp\OOPS\Inheritance\Single\bin\Debug\net9.0\Single.exe
+F:\MCA\Sem-4\C_Sharp\OOPS\Inheritance\Single\bin\Debug\net9.0\Single.deps.json
+F:\MCA\Sem-4\C_Sharp\OOPS\Inheritance\Single\bin\Debug\net9.0\Single.runtimeconfig.json
+F:\MCA\Sem-4\C_Sharp\OOPS\Inheritance\Single\bin\Debug\net9.0\Single.dll
+F:\MCA\Sem-4\C_Sharp\OOPS\Inheritance\Single\bin\Debug\net9.0\Single.pdb
+F:\MCA\Sem-4\C_Sharp\OOPS\Inheritance\Single\obj\Debug\net9.0\Single.dll
+F:\MCA\Sem-4\C_Sharp\OOPS\Inheritance\Single\obj\Debug\net9.0\refint\Single.dll
+F:\MCA\Sem-4\C_Sharp\OOPS\Inheritance\Single\obj\Debug\net9.0\Single.pdb
+F:\MCA\Sem-4\C_Sharp\OOPS\Inheritance\Single\obj\Debug\net9.0\Single.genruntimeconfig.cache
+F:\MCA\Sem-4\C_Sharp\OOPS\Inheritance\Single\obj\Debug\net9.0\ref\Single.dll
