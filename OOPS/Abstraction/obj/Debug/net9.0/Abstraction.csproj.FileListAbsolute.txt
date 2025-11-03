@@ -1,0 +1,15 @@
+F:\MCA\Sem-4\C_Sharp\OOPS\Abstraction\obj\Debug\net9.0\Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+F:\MCA\Sem-4\C_Sharp\OOPS\Abstraction\obj\Debug\net9.0\Abstraction.AssemblyInfoInputs.cache
+F:\MCA\Sem-4\C_Sharp\OOPS\Abstraction\obj\Debug\net9.0\Abstraction.AssemblyInfo.cs
+F:\MCA\Sem-4\C_Sharp\OOPS\Abstraction\obj\Debug\net9.0\Abstraction.csproj.CoreCompileInputs.cache
+F:\MCA\Sem-4\C_Sharp\OOPS\Abstraction\obj\Debug\net9.0\Abstraction.sourcelink.json
+F:\MCA\Sem-4\C_Sharp\OOPS\Abstraction\bin\Debug\net9.0\Abstraction.exe
+F:\MCA\Sem-4\C_Sharp\OOPS\Abstraction\bin\Debug\net9.0\Abstraction.deps.json
+F:\MCA\Sem-4\C_Sharp\OOPS\Abstraction\bin\Debug\net9.0\Abstraction.runtimeconfig.json
+F:\MCA\Sem-4\C_Sharp\OOPS\Abstraction\bin\Debug\net9.0\Abstraction.dll
+F:\MCA\Sem-4\C_Sharp\OOPS\Abstraction\bin\Debug\net9.0\Abstraction.pdb
+F:\MCA\Sem-4\C_Sharp\OOPS\Abstraction\obj\Debug\net9.0\Abstraction.dll
+F:\MCA\Sem-4\C_Sharp\OOPS\Abstraction\obj\Debug\net9.0\refint\Abstraction.dll
+F:\MCA\Sem-4\C_Sharp\OOPS\Abstraction\obj\Debug\net9.0\Abstraction.pdb
+F:\MCA\Sem-4\C_Sharp\OOPS\Abstraction\obj\Debug\net9.0\Abstraction.genruntimeconfig.cache
+F:\MCA\Sem-4\C_Sharp\OOPS\Abstraction\obj\Debug\net9.0\ref\Abstraction.dll
