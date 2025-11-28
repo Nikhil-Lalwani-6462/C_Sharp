@@ -53,5 +53,5 @@ class Program
         ed.DisplayDetails();
         Console.WriteLine();
         ed.CalculateBonus();
-    }
-}
+    }   
+}   

@@ -1,0 +1,15 @@
+F:\MCA\Sem-4\C_Sharp\String\String_Program\obj\Debug\net9.0\String_Program.GeneratedMSBuildEditorConfig.editorconfig
+F:\MCA\Sem-4\C_Sharp\String\String_Program\obj\Debug\net9.0\String_Program.AssemblyInfoInputs.cache
+F:\MCA\Sem-4\C_Sharp\String\String_Program\obj\Debug\net9.0\String_Program.AssemblyInfo.cs
+F:\MCA\Sem-4\C_Sharp\String\String_Program\obj\Debug\net9.0\String_Program.csproj.CoreCompileInputs.cache
+F:\MCA\Sem-4\C_Sharp\String\String_Program\obj\Debug\net9.0\String_Program.sourcelink.json
+F:\MCA\Sem-4\C_Sharp\String\String_Program\bin\Debug\net9.0\String_Program.exe
+F:\MCA\Sem-4\C_Sharp\String\String_Program\bin\Debug\net9.0\String_Program.deps.json
+F:\MCA\Sem-4\C_Sharp\String\String_Program\bin\Debug\net9.0\String_Program.runtimeconfig.json
+F:\MCA\Sem-4\C_Sharp\String\String_Program\bin\Debug\net9.0\String_Program.dll
+F:\MCA\Sem-4\C_Sharp\String\String_Program\bin\Debug\net9.0\String_Program.pdb
+F:\MCA\Sem-4\C_Sharp\String\String_Program\obj\Debug\net9.0\String_Program.dll
+F:\MCA\Sem-4\C_Sharp\String\String_Program\obj\Debug\net9.0\refint\String_Program.dll
+F:\MCA\Sem-4\C_Sharp\String\String_Program\obj\Debug\net9.0\String_Program.pdb
+F:\MCA\Sem-4\C_Sharp\String\String_Program\obj\Debug\net9.0\String_Program.genruntimeconfig.cache
+F:\MCA\Sem-4\C_Sharp\String\String_Program\obj\Debug\net9.0\ref\String_Program.dll
